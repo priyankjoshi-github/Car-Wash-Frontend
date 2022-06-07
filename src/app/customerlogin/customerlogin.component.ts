@@ -52,6 +52,7 @@ export class CustomerloginComponent implements OnInit {
           error => {
             console.log(error + 'error')
           }
+          
         );
     }
 
